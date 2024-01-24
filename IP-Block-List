@@ -13,3 +13,4 @@
 74.80.255.0/24
 104.28.233.73 #found in radius logs
 209.107.216.0/24 #2024-01-24 Strong Technology LLC
+104.16.0.0/12 #2024-01-24 Cloudflare
